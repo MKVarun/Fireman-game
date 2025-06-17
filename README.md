@@ -17,5 +17,5 @@ If ncurses.h is not installed, please install so by typing the following in your
 **sudo apt-get install libncurses5-dev libncursesw5-dev**
 
 ## Contributors
-Varun Kumar M
-Deeksha M S
+- Varun Kumar M
+- Deeksha M S
