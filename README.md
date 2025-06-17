@@ -15,3 +15,7 @@ gcc pac.c -lncurses -o fireman\
 ## Note
 If ncurses.h is not installed, please install so by typing the following in your terminal (Ubuntu):\
 **sudo apt-get install libncurses5-dev libncursesw5-dev**
+
+## Contributors
+Varun Kumar M
+Deeksha M S
